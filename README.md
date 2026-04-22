@@ -158,28 +158,6 @@ The system was tested and run on an office computer at **Pengadilan Negeri Manad
 
 ---
 
-## 📁 Project Structure (Overview)
-
-```
-📦 arsip-kepegawaian/
-├── 📂 app/
-│   ├── 📂 Http/
-│   │   └── 📂 Controllers/     # Application controllers
-│   └── 📂 Models/              # Eloquent models
-├── 📂 database/
-│   └── 📂 migrations/          # Database migrations
-├── 📂 public/                  # Public assets
-├── 📂 resources/
-│   └── 📂 views/               # Blade templates (UI)
-├── 📂 routes/
-│   └── web.php                 # Application routes
-├── .env                        # Environment configuration
-├── composer.json               # PHP dependencies
-└── README.md
-```
-
----
-
 ## 👤 Author
 **Proyek Magang / Internship Project**
 Pengadilan Negeri Manado
